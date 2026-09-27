@@ -23,7 +23,7 @@ A Flask-based Resume Parser that extracts and organizes important information fr
 ## How to Run
 
 1. Create and activate a virtual environment.
-2. Install the required packages:
+2. Install the required packages.
 
 ```bash
 pip install -r requirements.txt
